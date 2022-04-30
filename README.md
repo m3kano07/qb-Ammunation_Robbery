@@ -2,10 +2,13 @@
 Ammunation Robbery For QB-Core
 
 
-Server.cfg Convar Update
-
-* Global DrawTextUi Option
+# Server.cfg Convar Update
+- Global DrawTextUi Option
+```
 setr UseTarget false
+``` 
 
-* Global Target Option
+- Global Target Option
+```
 setr UseTarget true
+```
